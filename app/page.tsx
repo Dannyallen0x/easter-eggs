@@ -92,17 +92,17 @@ export default function Home() {
             />
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
               <img
-                src="/tokenomics/supply.jpeg"
+                src="/tokenomics/supply.png"
                 alt="Supply 1 Billion"
                 className="w-[250px] rounded-lg shadow-md"
               />
               <img
-                src="/tokenomics/tax.jpeg"
+                src="/tokenomics/tax.png"
                 alt="0% Tax"
                 className="w-[250px] rounded-lg shadow-md"
               />
               <img
-                src="/tokenomics/liquidity.jpeg"
+                src="/tokenomics/liquidity.png"
                 alt="Liquidity Locked"
                 className="w-[250px] rounded-lg shadow-md"
               />
